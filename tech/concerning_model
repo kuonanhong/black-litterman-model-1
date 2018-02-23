@@ -1,0 +1,26 @@
+1. weights and capital market. Why this assumption and why is it false?
+the market capital weights reflects the equilibrium, a consensus that peole holds. On the basis of possession of risk-fee assets, adjust the ratio between risky assets and risk free-assets. This is the option that people falls back on.
+
+2. The model directly gives a weight output, but why do we need to optimize it again?
+Because the constraints are not considered in the original black-littler man problem. And there are involvment of risk-free assets. So optimized again.
+
+3. The prior weights is optimized. again.
+
+4. max_drawdown unavoidable. Portfolio construction
+If we purchase government bonds only and avoid risks, then it is possible to get the volitility low but the return low as well.
+
+5. scaling of the penalties. Var, beta. Is it redundant?
+Reflects the systematic risk and the unsystematic risk. Tech and the risk profiling. Penalise the beta represented systematic risks.
+
+6. historical performance and non-index funds.
+
+3. markoviz. Decrease the sensitivity to the 
+This is not that well used. Instead, it provides a given framework and a bencnmark to work with.
+
+4. scenario analysis. The max drawdown and the return of the portfolio.
+
+Dotcum Bubble:
+1. abundance of venture capital firms and investors reckless for startups
+2. startups fail to turn a profit. non-organic growth
+3. Firms that yet to generate revenue profits and IPO
+
